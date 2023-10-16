@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Pedro Ramos. Fullstack developer Javascript. I have no patience for social media
+I'm Pedro Ramos. Fullstack developer. I have no patience for social media
 
 I'm learning at the moment **React and ReactNative**
 
@@ -8,7 +8,7 @@ I'm learning at the moment **React and ReactNative**
 
 Technologies that I work with:
 
-![PHP](https://img.shields.io/badge/-Php-black?style=flat-square&logo=php)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-339933?style=flat-square&logo=Node.js&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
@@ -23,7 +23,10 @@ Technologies that I work with:
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![BitBucket](https://img.shields.io/badge/-BitBucket-darkblue?style=flat-square&logo=bitbucket)
-![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=amazon-aws)
+![Amazon AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Golang](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Svelte](https://img.shields.io/badge/Svelte-4A4A55?style=for-the-badge&logo=svelte&logoColor=FF3E00)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 <!--
 **pedrohscramos/pedrohscramos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
