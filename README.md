@@ -2,8 +2,6 @@
 
 I'm Pedro Ramos. Fullstack developer. I have no patience for social media
 
-I'm learning at the moment **React and ReactNative**
-
 ## ⚡ Technologies
 
 Technologies that I work with:
